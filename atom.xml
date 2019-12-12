@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.whoau.tech/"/>
-  <updated>2019-12-12T10:28:13.739Z</updated>
+  <updated>2019-12-12T07:56:07.926Z</updated>
   <id>https://blog.whoau.tech/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://blog.whoau.tech/2019/12/12/article-title/"/>
+    <id>https://blog.whoau.tech/2019/12/12/article-title/</id>
+    <published>2019-12-12T07:56:07.000Z</published>
+    <updated>2019-12-12T07:56:07.926Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.whoau.tech/2019/12/12/hello-world/"/>
+    <id>https://blog.whoau.tech/2019/12/12/hello-world/</id>
+    <published>2019-12-12T07:28:30.431Z</published>
+    <updated>2019-12-12T07:28:30.431Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>二零一七年终总结</title>
